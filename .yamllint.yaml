@@ -1,9 +1,0 @@
----
-
-yaml-files:
-  - '*.yaml'
-  - '*.yml'
-  - '.yamllint'
-
-rules:
-  document-start: disable
